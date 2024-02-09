@@ -1,3 +1,6 @@
+![GitHub issues](https://img.shields.io/github/issues-raw/marysaray/30DaysLostInSpace)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/marysaray/30DaysLostInSpace)
+
 # 30 Days Lost In Space
 Learning from inventr.io circuits and coding.
 
