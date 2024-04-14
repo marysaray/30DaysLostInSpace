@@ -6,6 +6,10 @@ Learning from inventr.io circuits and coding.
 
 ## List of videos or images for each day completed... 
 
+Day 6: code link -> https://github.com/marysaray/30DaysLostInSpace/issues/7
+
+[<img src="https://img.youtube.com/vi/KarFUF-8vbU/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/KarFUF-8vbU)
 
 Day 5: code link -> https://github.com/marysaray/30DaysLostInSpace/issues/6
 
